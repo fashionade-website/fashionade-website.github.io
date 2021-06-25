@@ -1,0 +1,53 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://company.fashionade.ai/</loc>
+        <lastmod>2021-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://company.fashionade.ai/Products/with</loc>
+        <lastmod>2021-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://company.fashionade.ai/Products/outfits</loc>
+        <lastmod>2021-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://company.fashionade.ai/Products/API</loc>
+        <lastmod>2021-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://company.fashionade.ai/Solutions</loc>
+        <lastmod>2021-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://company.fashionade.ai/Datasets</loc>
+        <lastmod>2021-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://company.fashionade.ai/Company/About</loc>
+        <lastmod>2021-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>
+    <url>
+        <loc>https://company.fashionade.ai/ContactUs</loc>
+        <lastmod>2021-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1</priority>
+    </url>  
+</urlset>
